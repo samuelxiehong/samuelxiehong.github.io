@@ -6,31 +6,44 @@ category: Personal
 
 <section data-markdown
          data-separator-notes="^Note:"
-         data-separator="---" 
-         data-separator-vertical="--">
+         ddata-markdown data-separator="^\n\n\n" 
+         data-vertical="^\n\n">
     <script type="text/template">
         # Hello world!
         ## 我的 reveal.js 之旅……  
-
         Samuel XIE
 
         Note:
         This will only display in the notes window.
 
-        ---
 
-        ## 再来一张
-        - 还是不错的
-        - ……
 
-        --  
+        #slide 1
 
-        ## 还是不错的 
-        hahaha  
-        A paragraph with some text and a [link](http://hakim.se).
 
-        ---
+        #slide 1.1
 
-        #END
+
+        #slide 1.2
+
+
+
+        #slide 2
+
+
+        #slide 2.1
+
+
+        #slide 2.2
+
+
+
+        #end slide
     </script>
 </section>
+
+<section data-markdown data-separator="= = =" data-vertical="- - -">
+    <script type="text/template">
+      #start slide
+      = = =
+      
