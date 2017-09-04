@@ -5,16 +5,27 @@ category: Personal
 ---
 
 <section data-markdown
-         data-separator-notes="^Note:">
+         data-separator-notes="^Note:"
+         data-separator="---" 
+         data-separator-vertical="--">
     <script type="text/template">
         # Hello world!
-        ## Sub-title
+        ## Samuel XIE
 
-        Here is some content...
+        我的 reveal.js 之旅……
 
         Note:
         This will only display in the notes window.
+        
+        ---
 
+        ## 再来一张
+        - 还是不错的
+        - ……
+
+        --
+        ## 还是不错的
+        hahaha  
         A paragraph with some text and a [link](http://hakim.se).
     </script>
 </section>
