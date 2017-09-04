@@ -41,9 +41,3 @@ category: Personal
         #end slide
     </script>
 </section>
-
-<section data-markdown data-separator="= = =" data-vertical="- - -">
-    <script type="text/template">
-      #start slide
-      = = =
-      
