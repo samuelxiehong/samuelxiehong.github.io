@@ -9,7 +9,6 @@ category: Personal
          data-separator="---" 
          data-separator-vertical="--">
     <script type="text/template">
-
         # Hello world!
         ## 我的 reveal.js 之旅……  
 
@@ -24,7 +23,7 @@ category: Personal
         - 还是不错的
         - ……
 
-        --
+        --  
 
         ## 还是不错的 
         hahaha  
@@ -33,6 +32,5 @@ category: Personal
         ---
 
         #END
-
     </script>
 </section>
