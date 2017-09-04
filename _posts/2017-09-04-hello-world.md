@@ -10,13 +10,13 @@ category: Personal
          data-separator-vertical="--">
     <script type="text/template">
         # Hello world!
-        ## Samuel XIE
+        ## 我的 reveal.js 之旅……  
 
-        我的 reveal.js 之旅……
+        Samuel XIE
 
         Note:
         This will only display in the notes window.
-        
+
         ---
 
         ## 再来一张
@@ -24,6 +24,7 @@ category: Personal
         - ……
 
         --
+
         ## 还是不错的
         hahaha  
         A paragraph with some text and a [link](http://hakim.se).
