@@ -9,14 +9,14 @@ desc: 数字化浪潮下的极简生活
 
 custom:
     category:
-        default: Default Category
-        another: Another Category
+        default: Business
+        another: Personal
     categories:
       - name:  default
-        title: Default Category
+        title: 企业数字化转型
 
       - name:  another
-        title: Another Category
+        title: 数字化生存
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
